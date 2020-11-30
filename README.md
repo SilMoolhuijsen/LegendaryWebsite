@@ -3,7 +3,6 @@
 <html>
 <head>
     <title>My first web page hoi</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
