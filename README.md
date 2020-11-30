@@ -1,10 +1,17 @@
 # LegendaryWebsite
 <!DOCTYPE html>
 <html>
-<head>
-<title>My first web page hoi</title>
-</head>
+<style>
 
+    p {
+        color: red;
+    }
+
+    a {
+        color: blue;
+    }
+
+</style>
 <body>
 
 <h1>My first web page</h1>
