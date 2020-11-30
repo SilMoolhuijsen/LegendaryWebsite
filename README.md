@@ -3,8 +3,7 @@
 <html>
 <head>
     <title>My first web page hoi</title>
-    <!-- This is a comment, by the way -->
-
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
