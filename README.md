@@ -6,7 +6,6 @@
 <head>
 
     <title>My first web page hoi</title>
-    <p style="color: red">text</p>
     <!-- This is a comment, by the way -->
 
 </head>
