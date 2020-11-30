@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My first web page hoi</title>
+<title>My first web page hoi</title>
 </head>
 
 <body>
