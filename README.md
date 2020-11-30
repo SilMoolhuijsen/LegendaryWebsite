@@ -6,17 +6,7 @@
 <head>
 
     <title>My first web page hoi</title>
-<style>
-
-    p {
-        color: red;
-    }
-
-    a {
-        color: blue;
-    }
-
-</style>
+    <p style="color: red">text</p>
     <!-- This is a comment, by the way -->
 
 </head>
