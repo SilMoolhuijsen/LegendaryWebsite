@@ -9,6 +9,8 @@
 <h2>What this is</h2>
 <p>A simple page put together using HTML. <em>I said a simple page put together using HTML.</em> A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML.</p>
 
+<p style="color: red">text</p>
+
 <h2>Why this is</h2>
 <ul>
     <li>To learn HTML</li>
