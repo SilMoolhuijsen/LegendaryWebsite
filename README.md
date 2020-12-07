@@ -1,22 +1,8 @@
 # LegendaryWebsite
 <!DOCTYPE html>
 <html>
-<head>
-<title>My first web page</title>
-
-<style>
-
-    p {
-        color: red;
-    }
-
-    a {
-        color: blue;
-    }
-
-</style>
-
 <body>
+<h1>My first web page</h1>
 
 <h2>What this is</h2>
 <p>A simple page put together using HTML. <em>I said a simple page put together using HTML.</em> A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML. A simple page put together using HTML.</p>
